@@ -1,6 +1,8 @@
 # Solving SAS Pain Points with Python
 
-Click on  `presentation.ipynb` to view a static version.
+See the recorded presentation on [YouTube](https://www.youtube.com/watch?v=HuVnh35paG4)
+
+Alternatively, click on `presentation.ipynb` to view a static version.
 
 Or, download this repository and run the interactive version on your local machine
 (requires [Jupyter Notebook -

@@ -2,7 +2,7 @@
 
 See the recorded presentation on [YouTube](https://www.youtube.com/watch?v=HuVnh35paG4)
 
-Alternatively, click on `presentation.ipynb` to view a static version.
+See the static presentation [here](https://github.com/thedataincubator/sas-pain-points/blob/master/presentation.ipynb)
 
 Or, download this repository and run the interactive version on your local machine
 (requires [Jupyter Notebook -
